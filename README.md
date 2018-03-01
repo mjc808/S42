@@ -1,0 +1,1 @@
+Independent attempt at geolocating the acoustic anomaly likely related to the tragic loss of the ARA San Juan (S-42) on 15 Nov 2017.
